@@ -45,7 +45,7 @@ Tools: Looker Studio, Google Sheets, Python
 - Used interactive filters for location, gender, and trends across industries
 - Presented outcomes to stakeholders with video walkthroughs
 
-[Presentation](./Project_1_Excelerate_Dashboard/Excelerate%20Looker%20Studio%20Presentation%20(1).pdf) | [Video Links](./Project_1_Excelerate_Dashboard/Excelerate_links_shru.docx)
+[Presentation](./Project_1_Excelerate_Dashboard/Excelerate%20Looker%20Studio%20Presentation%20(1).pdf) (./Project_1_Excelerate_Dashboard/Excelerate_links_shru.docx)
 
 ---
 
