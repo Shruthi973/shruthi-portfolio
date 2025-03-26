@@ -7,8 +7,8 @@ Health Data Scientist | Machine Learning Enthusiast | Research-Driven Thinker
 ---
 
 Graduate Student – MS in Health Data Science  
-Saint Louis University 
-Saint Louis, MO 
+*Saint Louis University*
+ Saint Louis, MO
 vudemshruthireddy@gmail.com 
 [LinkedIn](https://www.linkedin.com/in/shruthi-reddy-vudem1410/) 
 [Resume](./VSR_RESUMEZ_F.pdf)
@@ -45,7 +45,7 @@ Tools: Looker Studio, Google Sheets, Python
 - Used interactive filters for location, gender, and trends across industries
 - Presented outcomes to stakeholders with video walkthroughs
 
-[Presentation](./Project_1_Excelerate_Dashboard/Excelerate%20Looker%20Studio%20Presentation%20(1).pdf) (./Project_1_Excelerate_Dashboard/Excelerate_links_shru.docx)
+[Download Presentation (PDF)](./Project_1_Excelerate_Dashboard/Excelerate%20Looker%20Studio%20Presentation%20(1).pdf).pdf) | [Download Video Links](./Project_1_Excelerate_Dashboard/Excelerate_links_shru.docx)
 
 ---
 
@@ -55,7 +55,7 @@ Tools: Python, R, Tableau, Looker Studio
 - Created dynamic dashboards and regression models for policy insights
 - Identified gender and income-level discrepancies in mode choice over time
 
-[Project Summary](./Project_2_Biking_Trends/Walking+and+Biking+to+Work+Trends.docx)
+[Download Project Summary](./Project_2_Biking_Trends/Walking+and+Biking+to+Work+Trends.docx)
 
 ---
 
@@ -65,7 +65,7 @@ Tools: Python, R, GSS Dataset
 - Applied t-tests, logistic regression, ANOVA, and correlation matrices
 - Derived socio-behavioral insights from over 8000+ survey records
 
-[Report](./Project_3_Tech_Influence/INFLUENCE_DOC.pdf)
+[Download Report](./Project_3_Tech_Influence/INFLUENCE_DOC.pdf)
 
 ---
 
@@ -75,7 +75,7 @@ Tools: Python, Pandas, Dask, Random Forest
 - Identified key predictors of overdose deaths with 91% accuracy
 - Produced interpretability-focused plots and findings
 
-[Report](./Project_1_Excelerate_Dashboard/ACCIDENTAL_1.html) | [Slides](./Project_1_Excelerate_Dashboard/ACCIDENTAL_SHRUTHI_PPT.pptx)
+[Download Report](./Project_1_Excelerate_Dashboard/ACCIDENTAL_1.html) | [Download Slides](./Project_1_Excelerate_Dashboard/ACCIDENTAL_SHRUTHI_PPT.pptx)
 
 ---
 
@@ -85,7 +85,7 @@ Tools: Python, R, Logistic Regression, LASSO, Random Forest
 - Used MICE and KNN for imputation, Haversine for geo-features
 - Developed full ML pipeline from cleaning to evaluation
 
-[Code & Data](./SAR_Rental.csv) | [Report](./Project_5_SAR_Cancellation/SAR_SHRUTHI.docx) | [Slides](./Project_5_SAR_Cancellation/SAR_SHRUTHI.pptx)
+[Code & Data](./SAR_Rental.csv) | [Download Report](./Project_5_SAR_Cancellation/SAR_SHRUTHI.docx) | [Download Slides](./Project_5_SAR_Cancellation/SAR_SHRUTHI.pptx)
 
 ---
 
@@ -95,7 +95,7 @@ Tools: Python, R, Google Data Studio
 - Explored discordance between perceived and actual balance ability
 - Features Mini-BESTest, UPDRS, SDMT, FOG-Q, and fall-risk indicators
 
-[Dashboard PDF](./Research/PARKINSON'S_DB%20(1).pdf)
+[Download Dashboard PDF](./Research/PARKINSON'S_DB%20(1).pdf)
 
 ---
 
@@ -105,7 +105,7 @@ Tools: Python, R, Google Data Studio
 - Human Research (CITI Program – Biomedical)
 - Clinical Decision Making – Cleveland Clinic
 
-[Certificates Folder](./Certifications/certificates%20(1).pdf)
+[Download Certificates Folder](./Certifications/certificates%20(1).pdf)
 
 ---
 
