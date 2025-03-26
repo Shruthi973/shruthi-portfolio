@@ -1,16 +1,17 @@
 # shruthi-portfolio
+ 
  Shruthi Reddy Vudem
 
 Health Data Scientist | Machine Learning Enthusiast | Research-Driven Thinker
 
 ---
 
-Graduate Student – Masters in Health Data Science  
-Saint Louis University
+Graduate Student – MS in Health Data Science  
+Saint Louis University 
 Saint Louis, MO 
- 📬 vudemshruthireddy@gmail.com 
- [LinkedIn](https://www.linkedin.com/in/shruthi-reddy-vudem1410/) 
- [Resume](./VSR_RESUMEZ_F.pdf)
+vudemshruthireddy@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/shruthi-reddy-vudem1410/) 
+[Resume](./VSR_RESUMEZ_F.pdf)
 
 ---
 
@@ -44,7 +45,7 @@ Tools: Looker Studio, Google Sheets, Python
 - Used interactive filters for location, gender, and trends across industries
 - Presented outcomes to stakeholders with video walkthroughs
 
-[Presentation](./Excelerate%20Insider%20Insights%20final%20version.pptx) | [Video Links](./Final%20Excelerate%20dashboard%20ppt%20video%20links.docx)
+[Presentation](./Project_1_Excelerate_Dashboard/Excelerate%20Looker%20Studio%20Presentation%20(1).pdf) | [Video Links](./Project_1_Excelerate_Dashboard/Excelerate_links_shru.docx)
 
 ---
 
@@ -54,7 +55,7 @@ Tools: Python, R, Tableau, Looker Studio
 - Created dynamic dashboards and regression models for policy insights
 - Identified gender and income-level discrepancies in mode choice over time
 
-[Project Summary](./Walking%2Band%2BBiking%2Bto%2BWork%2BTrends.docx)
+[Project Summary](./Project_2_Biking_Trends/Walking+and+Biking+to+Work+Trends.docx)
 
 ---
 
@@ -64,7 +65,7 @@ Tools: Python, R, GSS Dataset
 - Applied t-tests, logistic regression, ANOVA, and correlation matrices
 - Derived socio-behavioral insights from over 8000+ survey records
 
-[Report](./Influence%20of%20technology%20.docx)
+[Report](./Project_3_Tech_Influence/INFLUENCE_DOC.pdf)
 
 ---
 
@@ -74,7 +75,7 @@ Tools: Python, Pandas, Dask, Random Forest
 - Identified key predictors of overdose deaths with 91% accuracy
 - Produced interpretability-focused plots and findings
 
-[Report](./Accidental%20drug%20related%20death%20project%20.html) | [Slides](./Accidental_ppt.pptx)
+[Report](./Project_1_Excelerate_Dashboard/ACCIDENTAL_1.html) | [Slides](./Project_1_Excelerate_Dashboard/ACCIDENTAL_SHRUTHI_PPT.pptx)
 
 ---
 
@@ -84,7 +85,7 @@ Tools: Python, R, Logistic Regression, LASSO, Random Forest
 - Used MICE and KNN for imputation, Haversine for geo-features
 - Developed full ML pipeline from cleaning to evaluation
 
-[Code & Data](./SAR_Rental.csv) | [Report](./SAR_SHRUTHI.docx) | [Slides](./SAR_SHRUTHI.pptx)
+[Code & Data](./SAR_Rental.csv) | [Report](./Project_5_SAR_Cancellation/SAR_SHRUTHI.docx) | [Slides](./Project_5_SAR_Cancellation/SAR_SHRUTHI.pptx)
 
 ---
 
@@ -94,23 +95,23 @@ Tools: Python, R, Google Data Studio
 - Explored discordance between perceived and actual balance ability
 - Features Mini-BESTest, UPDRS, SDMT, FOG-Q, and fall-risk indicators
 
-[Dashboard PDF](./PARKINSON'S_DB%20(1).pdf)
+[Dashboard PDF](./Research/PARKINSON'S_DB%20(1).pdf)
 
 ---
 
  Certifications
-- Machine Learning with Python –  LinkedIn Learning
-- Tableau Essential Training - LinkedIn Learning
+- Machine Learning with Python – IBM / LinkedIn Learning
+- Tableau Essential Training
 - Human Research (CITI Program – Biomedical)
 - Clinical Decision Making – Cleveland Clinic
 
-[Certificates Folder](./certificates%20(1).pdf)
+[Certificates Folder](./Certifications/certificates%20(1).pdf)
 
 ---
 
  Let’s Connect
 - 📧 vudemshruthireddy@gmail.com  
-- [LinkedIn](https://linkedin.com/in/YOUR_LINK)  
+- [LinkedIn](https://www.linkedin.com/in/shruthi-reddy-vudem1410/)  
 - Always open to collaborations in AI, data storytelling, and ML research
 
 > “The most impactful insights often come from the messiest data — it’s all about asking the right questions.”
