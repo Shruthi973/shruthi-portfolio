@@ -40,7 +40,7 @@ Tools: Looker Studio, Google Sheets, Python
 - Used interactive filters for location, gender, and trends across industries
 - Presented outcomes to stakeholders with video walkthroughs
 
-[Download Presentation (PDF)] [Download Video Links](./Project_1_Excelerate_Dashboard/Excelerate_links_shru.docx)
+ [Download Video Links](./Project_1_Excelerate_Dashboard/Excelerate_links_shru.docx)
 
 ---
 
