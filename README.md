@@ -1,5 +1,3 @@
-# shruthi-portfolio
- 
  Shruthi Reddy Vudem
 
 Health Data Scientist | Machine Learning Enthusiast | Research-Driven Thinker
@@ -7,11 +5,8 @@ Health Data Scientist | Machine Learning Enthusiast | Research-Driven Thinker
 ---
 
 Graduate Student – MS in Health Data Science  
-*Saint Louis University*
- Saint Louis, MO
-vudemshruthireddy@gmail.com 
-[LinkedIn](https://www.linkedin.com/in/shruthi-reddy-vudem1410/) 
-[Resume](./VSR_RESUMEZ_F.pdf)
+*Saint Louis University*  
+📍 Saint Louis, MO | 📬 vudemshruthireddy@gmail.com | [LinkedIn](https://www.linkedin.com/in/shruthi-reddy-vudem1410/) | [Resume](./VSR_RESUMEZ_F.pdf)
 
 ---
 
@@ -45,7 +40,7 @@ Tools: Looker Studio, Google Sheets, Python
 - Used interactive filters for location, gender, and trends across industries
 - Presented outcomes to stakeholders with video walkthroughs
 
-[Download Presentation (PDF)] | [Download Video Links](./Project_1_Excelerate_Dashboard/Excelerate_links_shru.docx)
+[Download Presentation (PDF)] [Download Video Links](./Project_1_Excelerate_Dashboard/Excelerate_links_shru.docx)
 
 ---
 
@@ -85,7 +80,7 @@ Tools: Python, R, Logistic Regression, LASSO, Random Forest
 - Used MICE and KNN for imputation, Haversine for geo-features
 - Developed full ML pipeline from cleaning to evaluation
 
-[Code & Data](./SAR_Rental.csv) | [Download Report](./Project_5_SAR_Cancellation/SAR_SHRUTHI.docx) | [Download Slides](./Project_5_SAR_Cancellation/SAR_SHRUTHI.pptx)
+[Download Dataset (CSV)](./Project_5_SAR_Cancellation/SAR_Rental.csv) | [Download Report](./Project_5_SAR_Cancellation/SAR_SHRUTHI.docx) | [Download Slides](./Project_5_SAR_Cancellation/SAR_SHRUTHI.pptx)
 
 ---
 
@@ -105,7 +100,9 @@ Tools: Python, R, Google Data Studio
 - Human Research (CITI Program – Biomedical)
 - Clinical Decision Making – Cleveland Clinic
 
-[Download Certificates Folder](./Certifications/certificates%20(1).pdf)
+- [Download Certificate: Machine Learning with Python](./Certifications/CertificateOfCompletion_Machine%20Learning%20with%20Python%20Foundations.pdf)
+- [Download Certificate: Tableau Essential Training](./Certifications/CertificateOfCompletion_Tableau%20Essential%20Training%20(1).pdf)
+- [Download Certificate: CITI Program](./Certifications/Certificate_citi.pdf)
 
 ---
 
