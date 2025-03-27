@@ -6,7 +6,9 @@ Health Data Scientist | Machine Learning Enthusiast | Research-Driven Thinker
 
 Graduate Student – MS in Health Data Science  
 *Saint Louis University*  
-📍 Saint Louis, MO | 📬 vudemshruthireddy@gmail.com | [LinkedIn](https://www.linkedin.com/in/shruthi-reddy-vudem1410/) | [Resume](./VSR_RESUMEZ_F.pdf)
+ Saint Louis, MO |  vudemshruthireddy@gmail.com |
+ [LinkedIn](https://www.linkedin.com/in/shruthi-reddy-vudem1410/) |
+ [Resume](./VSR_RESUMEZ_F.pdf)
 
 ---
 
