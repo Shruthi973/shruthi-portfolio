@@ -113,4 +113,3 @@ Tools: Python, R, Google Data Studio
 - [LinkedIn](https://www.linkedin.com/in/shruthi-reddy-vudem1410/)  
 - Always open to collaborations in AI, data storytelling, and ML research
 
-> “The most impactful insights often come from the messiest data — it’s all about asking the right questions.”
