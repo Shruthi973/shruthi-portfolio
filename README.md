@@ -1,115 +1,78 @@
- Shruthi Reddy Vudem
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { motion } from "framer-motion";
 
-Health Data Scientist | Machine Learning Enthusiast | Research-Driven Thinker
+export default function Portfolio() {
+  return (
+    <main className="min-h-screen bg-black text-white px-4 md:px-12 py-10">
+      <section className="text-center mb-12">
+        <h1 className="text-4xl md:text-5xl font-bold text-gradient mb-4">
+          Shruthi Reddy Vudem
+        </h1>
+        <p className="text-lg md:text-xl text-gray-300">
+          Health Data Scientist | Machine Learning Enthusiast | Research-Driven Thinker
+        </p>
+      </section>
 
----
+      <motion.section
+        initial={{ opacity: 0, y: 40 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.6 }}
+        className="grid md:grid-cols-2 gap-8"
+      >
+        <Card className="bg-gray-900 border border-gray-700">
+          <CardContent className="p-6">
+            <h2 className="text-xl font-semibold text-white mb-2">About Me</h2>
+            <p className="text-gray-300 text-sm">
+              I’m a data scientist with a foundation in healthcare, machine learning, and research. Passionate about
+              turning clinical and societal data into actionable insights through statistical modeling and
+              visualization.
+            </p>
+          </CardContent>
+        </Card>
 
-Graduate Student – MS in Health Data Science  
-*Saint Louis University*  
- Saint Louis, MO |  vudemshruthireddy@gmail.com |
- [LinkedIn](https://www.linkedin.com/in/shruthi-reddy-vudem1410/) |
- [Resume](./VSR_RESUMEZ_F.pdf)
+        <Card className="bg-gray-900 border border-gray-700">
+          <CardContent className="p-6">
+            <h2 className="text-xl font-semibold text-white mb-2">Projects</h2>
+            <ul className="list-disc pl-5 text-gray-300 text-sm">
+              <li>Excelerate Insights Dashboard – Tech career visualizations in Looker Studio</li>
+              <li>Parkinson’s Data Dashboard – Balance perception analysis in PD</li>
+              <li>Drug Death Prediction – ML pipeline with Dask + Random Forest</li>
+              <li>SAR Ride Cancellation – Multi-model ML classification</li>
+            </ul>
+          </CardContent>
+        </Card>
 
----
+        <Card className="bg-gray-900 border border-gray-700">
+          <CardContent className="p-6">
+            <h2 className="text-xl font-semibold text-white mb-2">Research</h2>
+            <p className="text-gray-300 text-sm">
+              Published in IJECSE – Open Apex Management (2022). Current work: Fall risk in Parkinson’s Disease using
+              UPDRS, Mini-BESTest, and PDQ-39 metrics.
+            </p>
+          </CardContent>
+        </Card>
 
- About Me
+        <Card className="bg-gray-900 border border-gray-700">
+          <CardContent className="p-6">
+            <h2 className="text-xl font-semibold text-white mb-2">Certifications</h2>
+            <ul className="list-disc pl-5 text-gray-300 text-sm">
+              <li>Machine Learning with Python – IBM/LinkedIn</li>
+              <li>Tableau Essential Training – LinkedIn Learning</li>
+              <li>Human Research – CITI Program</li>
+              <li>Clinical Decision Making – Cleveland Clinic</li>
+            </ul>
+          </CardContent>
+        </Card>
+      </motion.section>
 
-I’m a data scientist with a foundation in healthcare, machine learning, and research. I specialize in turning complex datasets—clinical, behavioral, or societal—into actionable insights and predictive models. With experience across deep learning, statistical modeling, and data visualization, I enjoy working on projects that are both ethically responsible and technically innovative.
-
-Passionate about LLMs, responsible AI, explainability (XAI), and real-world ML deployment.  
-Actively seeking Fall 2025 internships in Data Science, Applied ML, or AI Research.
-
----
-
- Research & Publications
-
-- Management of Open Apex: A Review of Literature  
-  *International Journal of Early Childhood Special Education (Vol. 14, Issue 05, 2022)*  
-  [Read Paper](https://www.researchgate.net/publication/387414570)
-
-- Current Research – *Saint Louis University, Sep 2024–Present*  
-  Project: Discordance Between Perceived and Actual Balance in Parkinson’s Disease  
-  - Visual analytics dashboard on motor-cognitive balance relationships  
-  - Clinical data analysis with falls, UPDRS, Mini-BESTest, PDQ-39 metrics
-
----
-
- Featured Projects
-
- 1. Excelerate Insider Insights – Internship Dashboard Project
-Tools: Looker Studio, Google Sheets, Python
-- Designed an executive dashboard visualizing tech career insights across demographics and skills
-- Used interactive filters for location, gender, and trends across industries
-- Presented outcomes to stakeholders with video walkthroughs
-
- [Download Video Links](./Project_1_Excelerate_Dashboard/Excelerate_links_shru.docx)
-
----
-
- 2. Walking & Biking to Work Trends (2010–2022)
-Tools: Python, R, Tableau, Looker Studio
-- Analyzed transportation trends using ACS public data
-- Created dynamic dashboards and regression models for policy insights
-- Identified gender and income-level discrepancies in mode choice over time
-
-[Download Project Summary](./Project_2_Biking_Trends/Walking+and+Biking+to+Work+Trends.docx)
-
----
-
- 3. Influence of Technology on Academic Life & Wellbeing
-Tools: Python, R, GSS Dataset
-- Investigated correlations between tech use, life satisfaction, and academic performance
-- Applied t-tests, logistic regression, ANOVA, and correlation matrices
-- Derived socio-behavioral insights from over 8000+ survey records
-
-[Download Report](./Project_3_Tech_Influence/INFLUENCE_DOC.pdf)
-
----
-
- 4. High-Performance ML on Drug-Related Deaths (2012–2023)
-Tools: Python, Pandas, Dask, Random Forest
-- Used parallel computing for efficient model training
-- Identified key predictors of overdose deaths with 91% accuracy
-- Produced interpretability-focused plots and findings
-
-[Download Report](./Project_1_Excelerate_Dashboard/ACCIDENTAL_1.html) | [Download Slides](./Project_1_Excelerate_Dashboard/ACCIDENTAL_SHRUTHI_PPT.pptx)
-
----
-
- 5. Predicting Ride Cancellations – SAR Rental
-Tools: Python, R, Logistic Regression, LASSO, Random Forest
-- Built multiple classification models (RF accuracy = 93.3%)
-- Used MICE and KNN for imputation, Haversine for geo-features
-- Developed full ML pipeline from cleaning to evaluation
-
- [Download Report](./Project_5_SAR_Cancellation/SAR_SHRUTHI.docx) | [Download Slides](./Project_5_SAR_Cancellation/SAR_SHRUTHI.pptx)
-
----
-
- 6. Parkinson’s Disease Clinical Dashboard *(Ongoing Research)*
-Tools: Python, R, Google Data Studio
-- Created an interactive dashboard comparing cognitive/motor metrics in PD vs Control
-- Explored discordance between perceived and actual balance ability
-- Features Mini-BESTest, UPDRS, SDMT, FOG-Q, and fall-risk indicators
-
-[Download Dashboard PDF](./Research/PARKINSON'S_DB%20(1).pdf)
-
----
-
- Certifications
-- Machine Learning with Python – IBM / LinkedIn Learning
-- Tableau Essential Training
-- Human Research (CITI Program – Biomedical)
-- Clinical Decision Making – Cleveland Clinic
-
-- [Download Certificate: Machine Learning with Python](./Certifications/CertificateOfCompletion_Machine%20Learning%20with%20Python%20Foundations.pdf)
-- [Download Certificate: Tableau Essential Training](./Certifications/CertificateOfCompletion_Tableau%20Essential%20Training%20(1).pdf)
-- [Download Certificate: CITI Program](./Certifications/Certificate_citi.pdf)
-
----
-
- Let’s Connect
-- 📧 vudemshruthireddy@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/shruthi-reddy-vudem1410/)  
-- Always open to collaborations in AI, data storytelling, and ML research
-
+      <section className="text-center mt-12">
+        <Button className="bg-pink-600 hover:bg-pink-700 text-white px-6 py-2 text-lg rounded-2xl">
+          <a href="/VSR_RESUMEZ_F.pdf" target="_blank" rel="noopener noreferrer">
+            Download Resume
+          </a>
+        </Button>
+      </section>
+    </main>
+  );
+}
